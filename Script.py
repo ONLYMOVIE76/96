@@ -1,15 +1,15 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {}
     
-Yᴏᴜ Cᴀɴ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜᴇʀ Gʀᴏᴜᴘ Jᴜsᴛ Mᴀᴋᴇ ᴍᴇ Aᴅᴍɪɴ.Jᴏɪɴ Hᴇʀᴇ <a href='https://t.me/onlymovie76'>ᴏɴʟʏᴍᴏᴠɪᴇ76</a> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>
+Jᴏɪɴ Hᴇʀᴇ <a href='https://t.me/onlymovie76'>ᴏɴʟʏᴍᴏᴠɪᴇ76</a> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>
 """
     HELP_TXT = """<b>Hᴇʟʟᴏ {}
     
 Yᴏᴜ Cᴀɴ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜᴇʀ Gʀᴏᴜᴘ Jᴜsᴛ Mᴀᴋᴇ ᴍᴇ Aᴅᴍɪɴ.Jᴏɪɴ Hᴇʀᴇ <a href='https://t.me/onlymovie76'>ᴏɴʟʏᴍᴏᴠɪᴇ76</a> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>"""
     ABOUT_TXT = """<b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : Jack Sparrow 
-• ᴜꜱᴇʀɴᴀᴍᴇ : @Captain_jac_k_sparrow_bot
+• ꜰᴜʟʟ ɴᴀᴍᴇ : ᴄᴏʙʏ ᴛʜᴇ ᴄᴀᴛ
+• ᴜꜱᴇʀɴᴀᴍᴇ : @coby_the_cat_Bot
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Jackbro007'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 “ Failure is an option here. If things are not failing, you are not innovating enough. ”</b>"""
